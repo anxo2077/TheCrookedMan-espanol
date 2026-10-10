@@ -23,7 +23,7 @@
 
 Esta es una **traducción completa al español** de *The Crooked Man*, el juego de terror de **Uri**, para la **versión de Steam**.
 
-**No es una traducción oficial.** La hice yo (**anxo2077**) como fan del juego, sin fines de lucro, para que más gente de habla hispana pueda disfrutarlo. No tiene relación con Uri ni con PLAYISM.
+**No es una traducción oficial.** La hice yo (**anxo2077**) para que mi novia pudiera disfrutar el juego en español, y decidí compartirla gratis para que más gente de habla hispana también pueda jugarlo. No tiene relación con Uri ni con PLAYISM.
 
 ### <img src="assets/icons/check.svg" width="20" align="top"> Qué incluye
 
@@ -46,7 +46,7 @@ Esta es una **traducción completa al español** de *The Crooked Man*, el juego 
 
 ### <img src="assets/icons/download.svg" width="20" align="top"> Descarga
 
-Descarga el archivo **`Data.wolf`** desde la sección **[Releases](https://github.com/anxo2077/TheCrookedMan-espanol/releases/latest)**.
+Descarga el archivo **`Data.wolf`** desde la sección **[Releases](https://github.com/anxo2077/TheCrookedMan-espanol/releases/latest)** (también está en este repositorio: [`Data.wolf`](Data.wolf)).
 
 > **Requisito:** tener *The Crooked Man* comprado en Steam. Este archivo **no** sirve sin el juego.
 
@@ -88,12 +88,18 @@ ERROR: Reading non-existant data number ... inside Type 33
 - Esta traducción es **gratuita, no oficial y sin fines de lucro**. No incluye el ejecutable del juego y necesitas tenerlo comprado para usarla.
 - Si la autora o la editora piden retirarla, se retirará.
 
-### <img src="assets/icons/bug.svg" width="20" align="top"> Reportar errores
+### <img src="assets/icons/bug.svg" width="20" align="top"> Problemas, sugerencias y nuevas traducciones
 
-¿Encontraste un texto que se sale del cuadro, una errata o algo que suena raro? Abre un **[Issue](https://github.com/anxo2077/TheCrookedMan-espanol/issues)** e incluye:
+Únete al **Discord**: ahí puedes reportar problemas, dar sugerencias y pedir traducciones de otros juegos.
+
+<a href="https://discord.gg/hpxvJDmPEy"><img src="https://img.shields.io/badge/Discord-Únete%20al%20servidor-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+
+Si encuentras un texto que se sale del cuadro, una errata o algo que suena raro, incluye:
 
 - Una **captura de pantalla**.
 - En qué parte del juego estabas (escena / lugar).
+
+También puedes abrir un **[Issue](https://github.com/anxo2077/TheCrookedMan-espanol/issues)** aquí en GitHub.
 
 ### <img src="assets/icons/heart.svg" width="20" align="top"> Créditos y agradecimientos
 
@@ -101,6 +107,7 @@ ERROR: Reading non-existant data number ... inside Type 33
 - **PLAYISM**: edición en Steam.
 - **vgperson**: traducción al inglés, usada como referencia junto al japonés original.
 - **Sinflower**: autor de [UberWolf](https://github.com/Sinflower/UberWolf), la herramienta usada para empaquetar los datos.
+- **Acvzdo**: autor de la guía de Steam *"Traducción al español de The Crooked Man"* (2023), que fue la que mi novia usó en su momento para jugar en español. Esta traducción es nueva y no usa sus archivos, pero gracias por abrir el camino y ayudar a la comunidad.
 - **Traducción al español:** anxo2077.
 
 ---
@@ -111,7 +118,7 @@ ERROR: Reading non-existant data number ... inside Type 33
 
 This is a **complete Spanish translation** of *The Crooked Man*, the horror game by **Uri**, for the **Steam version**.
 
-**This is not an official translation.** I (**anxo2077**) made it as a fan of the game, non-commercially, so more Spanish-speaking players can enjoy it. It is not affiliated with Uri or PLAYISM.
+**This is not an official translation.** I (**anxo2077**) made it so my girlfriend could enjoy the game in Spanish, and decided to share it for free so more Spanish-speaking players can play it too. It is not affiliated with Uri or PLAYISM.
 
 ### <img src="assets/icons/check.svg" width="20" align="top"> What's included
 
@@ -126,7 +133,7 @@ This is a **complete Spanish translation** of *The Crooked Man*, the horror game
 
 ### <img src="assets/icons/download.svg" width="20" align="top"> Download
 
-Get **`Data.wolf`** from the **[Releases](https://github.com/anxo2077/TheCrookedMan-espanol/releases/latest)** page.
+Get **`Data.wolf`** from the **[Releases](https://github.com/anxo2077/TheCrookedMan-espanol/releases/latest)** page (also available in this repository: [`Data.wolf`](Data.wolf)).
 
 > **Requirement:** you must own *The Crooked Man* on Steam. This file does **not** work without the game.
 
@@ -168,12 +175,18 @@ ERROR: Reading non-existant data number ... inside Type 33
 - This translation is **free, unofficial and non-commercial**. It does not include the game executable, and you need to own the game to use it.
 - If the author or publisher asks for it to be taken down, it will be.
 
-### <img src="assets/icons/bug.svg" width="20" align="top"> Reporting issues
+### <img src="assets/icons/bug.svg" width="20" align="top"> Issues, suggestions & new translations
 
-Found text overflowing a box, a typo, or something that reads oddly? Open an **[Issue](https://github.com/anxo2077/TheCrookedMan-espanol/issues)** with:
+Join the **Discord** to report problems, share suggestions or request translations of other games.
+
+<a href="https://discord.gg/hpxvJDmPEy"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+
+If you find text overflowing a box, a typo, or something that reads oddly, please include:
 
 - A **screenshot**.
 - Where you were in the game (scene / location).
+
+You can also open an **[Issue](https://github.com/anxo2077/TheCrookedMan-espanol/issues)** here on GitHub.
 
 ### <img src="assets/icons/heart.svg" width="20" align="top"> Credits & thanks
 
@@ -181,6 +194,7 @@ Found text overflowing a box, a typo, or something that reads oddly? Open an **[
 - **PLAYISM**: Steam publisher.
 - **vgperson**: English translation, used as a reference alongside the original Japanese.
 - **Sinflower**: author of [UberWolf](https://github.com/Sinflower/UberWolf), used to pack the game data.
+- **Acvzdo**: author of the Steam guide *"Traducción al español de The Crooked Man"* (2023), which my girlfriend originally used to play in Spanish. This translation is new and doesn't use those files, but thank you for paving the way and helping the community.
 - **Spanish translation:** anxo2077.
 
 <div align="center">
